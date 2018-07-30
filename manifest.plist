@@ -1,0 +1,34 @@
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>url</key>
+                        <string>https://www.shanfutongpay.com/copay-web/resources/upload/app/app-jinnuozhinenghuan.ipa</string>
+ 
+                        <key>kind</key>
+                        <string>software-package</string>
+                    </dict>
+                </array>
+ 
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.jinnuo.app</string>
+ 
+                    <key>title</key>
+                    <string>app-jinnuozhinenghuan.ipa</string>
+ 
+                    <key>bundle-version</key>
+                    <string>1.0.8</string>
+ 
+                    <key>kind</key>
+                    <string>software</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
